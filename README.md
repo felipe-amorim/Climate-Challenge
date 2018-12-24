@@ -116,3 +116,5 @@ public class Solution {
 ````
 
 Using the method "calculatePattern" to split the indexers within the patterns (normal and reversed) and then comparing the results as per to have the final index of virus DNA, the test cases 3~9 finally passed.
+
+The project can also be found on the repository, it is a Maven project created at [Intellij community IDE](https://www.jetbrains.com/idea/download/#section=windows)

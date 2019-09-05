@@ -1,7 +1,7 @@
 # Climate-Challenge
 Save Humanity Challenge
 
-This event was much more a timeout than an algorithm challenge, therefore, I would like to split my code into two sections.
+In order to solve this challenge, the goal was to process a huge amount of data on the shortest time possible, I've had many tries and I would like to show two of those tries.
 
 
 1. First- The code I wrote at the first time.

@@ -1,10 +1,10 @@
 # Climate-Challenge
 Save Humanity Challenge
 
-In order to solve this challenge, the goal was to process a huge amount of data on the shortest time possible, I've had many tries and I would like to show two of those tries.
+In order to solve this challenge, the goal was to process a huge amount of data on the shortest time possible, I've had many tries and I would like to show two of them.
 
 
-1. First- The code I wrote at the first time.
+1. First.
 ````java
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -54,10 +54,10 @@ public class SolutionOld {
 
 
 ````
-This code had many versions, however, as my problem was a timeout, this kind of sorting inside arrays using loops within the strings or keys was not optimized enough.
+This code had many versions, this kind of sorting inside arrays using loops within the strings or keys was not optimized enough.
 
 
-2. Second - The code sent to the hackerrank, in which I was highly influenced by the other Java developers related to this challenge, good to mention no function was copy-pasted.
+2. Second.
 
 ```java
 import java.util.*;
@@ -115,6 +115,6 @@ public class Solution {
 }
 ````
 
-Using the method "calculatePattern" to split the indexers within the patterns (normal and reversed) and then comparing the results as per to have the final index of virus DNA, the test cases 3~9 finally passed.
+Using the method "calculatePattern" to split the indexers within the patterns (normal and reversed) and then comparing the results as per to have the final index of virus DNA, the test cases 3~9 passed.
 
 The project can also be found on the repository, it is a Maven project created at [Intellij community IDE](https://www.jetbrains.com/idea/download/#section=windows)
